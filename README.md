@@ -2,4 +2,4 @@
 
 Leica Shen
 
-[github pages](github.com/jshen101/Lab7_Starter/index.html)
+[github pages](https://jshen101.github.io/Lab7_Starter/)
